@@ -1,0 +1,7 @@
+{
+  "name": "AI Crop Detector",
+  "description": "An AI-powered agricultural assistant that detects crop diseases from images and provides treatment solutions for farmers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
